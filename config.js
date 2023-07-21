@@ -13,7 +13,7 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 // EN ➜ Add the Bot number as priority first
 // EN ➜ If you want to receive reports you must use the three parameters (Number, name and true)
 global.owner = [
-['593993684821', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈', true], 
+['13648889540', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈', true], 
 ['5492266466080', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],  
 ['972529277026', '𝙊𝙬𝙣𝙚𝙧 (2) 💻', true],  
 ['59894808483', '𝘾𝙪𝙨𝙩𝙤𝙢𝙚𝙧 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 🥏', true],
@@ -25,7 +25,7 @@ global.prems = []
    
 // ES ➜ Agregue el código de idioma el cual usará GataBot  
 // EN ➜ Add the language code which GataBot will use
-//  es = Español      id = Bahasa Indonesia       ar = عرب
+//  es = Español      id = Bahasa Indonevrrbsia       ar = عرب
 //  en = English      pt = Português 
 global.lenguajeGB = es  //<-- Predeterminado en idioma Español 
 
